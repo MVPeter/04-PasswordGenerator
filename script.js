@@ -63,15 +63,6 @@ function generatePassword() {
         }
         var PWLength = asciiAllChars.length;
 
-        // if (asciiAllChars === "") {
-        //     alert("You have not selected any characters please click Generate again.");
-        // // var asciiAllChars = ["No characters selected"]
-        // } else 
-        //     alert("Your password will include the following characters:  " + "\r" + "\r" + tSpecial + "\r" + tCapital + "\r " + tLowercase + "\r " + tNumbers);
-
-        // var PWLength = asciiAllChars.length;
-
-
         //Random number array, chosen length
         
         var RNumbers = [];
